@@ -134,3 +134,29 @@ small {
 .nothingToSee {
   padding: 8%;
 } 
+
+.circleOne, 
+.circleTwo,
+.circleThree {
+    background-color: #fff;
+    height: 20rem;
+    width: 20rem;
+    position: absolute;
+    border-radius: 50%;
+    position: fixed;
+    background: linear-gradient(to right bottom, rgba(255,255,255,1), rgba(255,255,255,0.1));
+} 
+.circleOne {
+    top: 50%;
+    right: 0;
+    z-index: 1;
+}
+.circleTwo {
+    bottom: 70%;
+    left: 10%;
+}
+.circleThree {
+    bottom: -10%;
+    left: 20%;
+    
+}
