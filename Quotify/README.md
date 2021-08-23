@@ -73,9 +73,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 | Behaviour | Input | Output |
 | --------- | ------| ------ |
 | Create new quote | Quote, Author, Name| Displays Quote, Author, Submittion date and more details|
-| Upvote | Click `more details` then click `upvote` button | Increased number of upvotes|
-| Downvote |Click `more details` then click `downvote` button |  Increased number of downvotes|
-| Delete a quote | Click `more details` then click `delete quote`| Quote is deleted |
+| Upvote | On the quote Click on the `see more` then click `thumbs up` icon button | Increased number of upvotes|
+| Downvote | On the quote Click on the `see more` button then click `thumbs down` icon button|  Increased number of downvotes|
+| Delete a quote | Click the `bucket` icon with the word Delete besides it then click `delete quote`| Quote is deleted |
 
 ## Known Bugs
 As of now this is not applicable.
