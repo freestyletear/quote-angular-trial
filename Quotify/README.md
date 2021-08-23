@@ -1,4 +1,4 @@
-<h1 align=center >Quote</h1>
+<h1 align=center >Let's Quote</h1>
 
 <p align=center >Quote is an application that allows users to upload quotes. The quotes can then be up voted, down voted or deleted, 8th August 2021</p>
 
@@ -17,7 +17,7 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://miro.medium.com/max/2000/1*9HanDsRU11ZMsgDGJwN96w.png" alt="bootstrap" width="40" height="40"/> </a> <!--<a href="https://jquery.com/" target="_blank"> <img src="https://cms-assets.tutsplus.com/uploads/users/30/posts/35633/preview_image/jquery-js.png" alt="jquery" width="40" height="40"/> </a> --> <a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> </a> <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank"> <img src="https://image.topuwp.com/icon/2020-04-24/eec15c26939935795728ade75c3fff64.png" alt="figma" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://laracasts.s3.amazonaws.com/series/thumbnails/typescript-for-beginners.png" alt="typescript" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/docs/supporting/FAQ" target="_blank"> <img src="https://miro.medium.com/max/1200/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" alt="vs code" width="40" height="40"/> </a>  <a href="https://angular.io/cli">Angular CLI</a> </p> 
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://miro.medium.com/max/2000/1*9HanDsRU11ZMsgDGJwN96w.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> </a> <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank"> <img src="https://image.topuwp.com/icon/2020-04-24/eec15c26939935795728ade75c3fff64.png" alt="figma" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://laracasts.s3.amazonaws.com/series/thumbnails/typescript-for-beginners.png" alt="typescript" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/docs/supporting/FAQ" target="_blank"> <img src="https://miro.medium.com/max/1200/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" alt="vs code" width="40" height="40"/> </a>  <a href="https://angular.io/cli">Angular CLI</a> </p> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=freestyletear&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="freestyletear github status on top languages used" /></p>
 
@@ -112,7 +112,7 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 
 ## 📫 Support and contact details
 
-- portfolio https://keithjames-portfolio-verion-two-2a6267.netlify.app/
+- portfolio https://keithjames-portfolio-version-two-2a6267.netlify.app/
 - email **_keithjame@gmail.com_** <br>  **_freestyletear@gmail.com_**
 - phone: _Airtel-Kenya_ :- +254788507559
 
