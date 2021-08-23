@@ -4,17 +4,16 @@ div.container-fluid {
   padding: 0;
   font-family: 'Lato', sans-serif;
 }
-
-.header {
+ .header {
   /* gives the header a gradient background */
   background: rgb(2, 0, 36);
   background: radial-gradient(circle, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 0%, rgba(0, 212, 255, 1) 100%);
   color: white;
 }
 
-h1 {
+/* h1 {
   font-family: 'Playfair Display', serif;
-  font-weight: bold;
+  font-weight: bold;xx
   font-size: 60px;
   padding-top: 3%;
 }
@@ -35,10 +34,9 @@ h1 {
 
 button {
   padding: 2px;
-}
+} */
 
-.card {
-  /*animates card elements*/
+/* .card {
   margin: 3%;
   width: 20rem;
   transform: translateY(-3px);
@@ -47,21 +45,18 @@ button {
 }
 
 .card:hover {
-  /* animates card motion on hover */
   transform: translateY(-7px);
 }
 
 .cards {
-  /*allows for cards to append side by side*/
   display: flex;
   flex-wrap: wrap;
 }
 
 small {
-  /* changes cursor for small text */
   cursor: pointer;
 }
 
 .nothingToSee {
   padding: 8%;
-} 
+}  */
