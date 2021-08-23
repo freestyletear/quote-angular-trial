@@ -1,0 +1,10 @@
+label {
+    font-weight: bold;
+    font-size: 17px;
+}
+.btn-outline-primary {
+    margin-top: 20px;
+}
+button .btn-outline-primary:hover {
+    background-color: mediumblue;
+}

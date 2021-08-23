@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato|Playfair+Display&display=swap');
 
 .jumbotron {
   background-color: #1B52E0;
@@ -75,30 +76,30 @@ hr {
 
 
 
-/* @import url('https://fonts.googleapis.com/css?family=Lato|Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato|Playfair+Display&display=swap');
 
 div.container-fluid {
   padding: 0;
   font-family: 'Lato', sans-serif;
-} */
+} 
  /* .header {
   background: rgb(2, 0, 36);
   background: radial-gradient(circle, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 0%, rgba(0, 212, 255, 1) 100%);
   color: white;
 } */
 
-/* h1 {
+ h1 {
   font-family: 'Playfair Display', serif;
-  font-weight: bold;xx
+  font-weight: bold;
   font-size: 60px;
-  padding-top: 3%;
+  /* padding-top: 3%; */
 }
 
-.header img {
+/* .header img {
   width: 80px;
   height: 90px;
   padding-bottom: 40px;
-}
+} */
 
 .row {
   padding: 2%;
@@ -112,7 +113,7 @@ button {
   padding: 2px;
 } */
 
-/* .card {
+ .card {
   margin: 3%;
   width: 20rem;
   transform: translateY(-3px);
@@ -124,10 +125,10 @@ button {
   transform: translateY(-7px);
 }
 
-.cards {
+/* .cards {
   display: flex;
   flex-wrap: wrap;
-}
+} */
 
 small {
   cursor: pointer;
@@ -135,4 +136,4 @@ small {
 
 .nothingToSee {
   padding: 8%;
-}  */
+} 
