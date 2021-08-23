@@ -100,7 +100,7 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 
 ## Sources
 
-- 👨‍💻<p align="left"> <img width="800" height="500" src="" alt="https://raw.githubusercontent.com/freestyletear/quote-angular-trial/master/Quotify/src/assets/Screenshot%20from%202021-08-23%2006-22-26.png" /> </p>
+- 👨‍💻<p align="left"> <img width="800" height="500" src="https://raw.githubusercontent.com/freestyletear/quote-angular-trial/master/Quotify/src/assets/Screenshot%20from%202021-08-23%2006-22-26.png" alt="" /> </p>
 
 
 ---
