@@ -7,3 +7,6 @@
 button { /*positions all buttons*/
   float: right;
 }
+.btn:hover {
+  cursor: pointer;
+}
