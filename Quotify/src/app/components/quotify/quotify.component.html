@@ -1,22 +1,36 @@
-<div class="card content-fluid">
+<div class="card content-fluid jumbotron">
   <div class="arrow">
-    <h1 class="text-center text-red">Let's Quote</h1>
-    <p class="text-center">For The World isn’t Waiting For Cheap Talk</p>
+    <div class="card-title">
+      <h1 class="text-center">Let's Quote</h1>
+    </div>
+    <div class="card-body">
+      <p class="text-center card-text">For The World isn’t Waiting For Cheap Talk</p>
+    </div>
   </div>
 </div>
+
+<!-- <div class="card container-fluid">
+  <div class="row">
+    <div class="col">
+      <h3 class="text-center">Be inspired!</h3>
+      <hr style="width:50%">
+      <div class="col-xs-4 col-md-4"></div>
+      <div class="col-xs-4 col-md-4"></div>
+    </div>
+    <div class="col-xs-4 col-md-4"></div>
+  </div>
+</div> -->
 
 
 
 <div class="container-fluid">
-  <div class="header">
-    <h1 class="text-center">Quotify&nbsp;<img src="assets/images/quotes.png"></h1>
-    <p class="text-center">Inspire before you expire</p>
-    <hr style="width: 50%;">
-  </div>
   <div class="row">
     <div class="col-sm-8">
-      <h3 class="text-center">Be inspired!</h3>
-      <hr style="width:50%">
+      <div class="spread">
+        <h3 class="text-center">You're Inspired!</h3>
+        <h4 class="text-center">Right why wount you spread the word by contributting by adding you own quotes</h4>
+        <hr style="width:50%">
+      </div>
       <div class="cards">
         <div class="card" *ngFor='let quote of sortQuotes let i= index'>
           <div class="card-body" appHighlightQuote *ngIf="highlightHighest() === quote.upVote && quote.upVote > 0">
@@ -43,6 +57,7 @@
         <p>Fill in the form to add a quote.</p>
       </div>
     </div>
+
     <div class="col-sm-4">
       <h3 class="text-center">Inspire someone.</h3>
       <hr style="width:50%">

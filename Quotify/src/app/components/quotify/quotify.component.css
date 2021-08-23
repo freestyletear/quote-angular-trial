@@ -1,15 +1,35 @@
- @import url('https://fonts.googleapis.com/css?family=Lato|Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+.jumbotron {
+  background-color: #1B52E0;
+  height: 150px;
+}
+.jumbotron .card-title {
+  font-family: 'Playfair Display', serif;
+  font-weight: bolder;
+  font-size: 50rem;
+  color: #fff;
+}
+.jumbotron .card-body .card-text {
+  color: #fff;
+  font-size: 25px;
+  font-family: 'Playfair Display', serif;
+}
+hr {
+  margin: auto;
+}
+
+/* @import url('https://fonts.googleapis.com/css?family=Lato|Playfair+Display&display=swap');
 
 div.container-fluid {
   padding: 0;
   font-family: 'Lato', sans-serif;
-}
- .header {
-  /* gives the header a gradient background */
+} */
+ /* .header {
   background: rgb(2, 0, 36);
   background: radial-gradient(circle, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 0%, rgba(0, 212, 255, 1) 100%);
   color: white;
-}
+} */
 
 /* h1 {
   font-family: 'Playfair Display', serif;
