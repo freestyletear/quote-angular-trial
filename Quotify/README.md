@@ -112,7 +112,7 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 
 ## 📫 Support and contact details
 
-- portfolio ~~https://freestyletear.github.io/Personal_Portfolio/~~
+- portfolio https://keithjames-portfolio-verion-two-2a6267.netlify.app/
 - email **_keithjame@gmail.com_** <br>  **_freestyletear@gmail.com_**
 - phone: _Airtel-Kenya_ :- +254788507559
 
